@@ -1,0 +1,17 @@
+C:\Users\z003zeju\Downloads\signalrdemo-master\signalrdemo-master\WebApplication4\bin\Debug\netcoreapp2.1\libman.json
+C:\Users\z003zeju\Downloads\signalrdemo-master\signalrdemo-master\WebApplication4\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\z003zeju\Downloads\signalrdemo-master\signalrdemo-master\WebApplication4\bin\Debug\netcoreapp2.1\SignalRDemoApp.deps.json
+C:\Users\z003zeju\Downloads\signalrdemo-master\signalrdemo-master\WebApplication4\bin\Debug\netcoreapp2.1\SignalRDemoApp.runtimeconfig.json
+C:\Users\z003zeju\Downloads\signalrdemo-master\signalrdemo-master\WebApplication4\bin\Debug\netcoreapp2.1\SignalRDemoApp.runtimeconfig.dev.json
+C:\Users\z003zeju\Downloads\signalrdemo-master\signalrdemo-master\WebApplication4\bin\Debug\netcoreapp2.1\SignalRDemoApp.dll
+C:\Users\z003zeju\Downloads\signalrdemo-master\signalrdemo-master\WebApplication4\bin\Debug\netcoreapp2.1\SignalRDemoApp.pdb
+C:\Users\z003zeju\Downloads\signalrdemo-master\signalrdemo-master\WebApplication4\obj\Debug\netcoreapp2.1\SignalRDemoApp.csprojAssemblyReference.cache
+C:\Users\z003zeju\Downloads\signalrdemo-master\signalrdemo-master\WebApplication4\obj\Debug\netcoreapp2.1\SignalRDemoApp.AssemblyInfoInputs.cache
+C:\Users\z003zeju\Downloads\signalrdemo-master\signalrdemo-master\WebApplication4\obj\Debug\netcoreapp2.1\SignalRDemoApp.AssemblyInfo.cs
+C:\Users\z003zeju\Downloads\signalrdemo-master\signalrdemo-master\WebApplication4\obj\Debug\netcoreapp2.1\SignalRDemoApp.csproj.CoreCompileInputs.cache
+C:\Users\z003zeju\Downloads\signalrdemo-master\signalrdemo-master\WebApplication4\obj\Debug\netcoreapp2.1\SignalRDemoApp.RazorAssemblyInfo.cache
+C:\Users\z003zeju\Downloads\signalrdemo-master\signalrdemo-master\WebApplication4\obj\Debug\netcoreapp2.1\SignalRDemoApp.RazorAssemblyInfo.cs
+C:\Users\z003zeju\Downloads\signalrdemo-master\signalrdemo-master\WebApplication4\obj\Debug\netcoreapp2.1\SignalRDemoApp.RazorTargetAssemblyInfo.cache
+C:\Users\z003zeju\Downloads\signalrdemo-master\signalrdemo-master\WebApplication4\obj\Debug\netcoreapp2.1\SignalRDemoApp.dll
+C:\Users\z003zeju\Downloads\signalrdemo-master\signalrdemo-master\WebApplication4\obj\Debug\netcoreapp2.1\SignalRDemoApp.pdb
+C:\Users\z003zeju\Downloads\signalrdemo-master\signalrdemo-master\WebApplication4\obj\Debug\netcoreapp2.1\SignalRDemoApp.genruntimeconfig.cache
